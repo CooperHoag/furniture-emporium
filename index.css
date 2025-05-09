@@ -1,0 +1,51 @@
+p {
+  font-family: "Times New Roman",Times,serif;;
+  padding-left: 5px;
+}
+
+h1 {
+  color:blue;
+  margin-right: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-style: dotted; 
+  border-color: red;
+}
+h2 {
+  text-decoration: hotpink wavy underline;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 15px;
+  padding-left: 5px;
+}
+
+article {
+background-color: lightblue;
+font-size: 17px;
+border-radius: 25px;
+position: relative;
+padding: 20px;
+}
+
+.price-new {
+  font-size: 25px;
+  color: blue;
+}
+
+s {
+  font-size: 15px
+}
+
+button {
+  display: block;
+  background-color: lightgoldenrodyellow;
+  padding: 10px 20px;
+  border-radius: 8px;
+  width: 85%;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: orange;
+}
